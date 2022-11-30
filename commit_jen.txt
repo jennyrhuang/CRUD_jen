@@ -8,7 +8,7 @@ Parar subir do local p/a nuvem (cópia):
 
 3) git commit -m "feature : tipo do commit; funcionalidade do primeiro" => diz o que foi feito, o controle de versionamentos (versões do código)
 
-4) git push origin xxx => especifica a branch remota/da nuvem
+4) git push origin xxx (ex.: main) => especifica a branch remota/da nuvem
 
 (branch: cria-se uma para cada funcionalidade; "main": branch de produção, a mais importante)
 - dev: desenvolvimento (sempre a primeira que pode ser atualizada)
