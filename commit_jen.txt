@@ -6,7 +6,7 @@ Parar subir do local p/a nuvem (cópia):
 - git add . => adicionar todos os arquivos
 - git add nome_arquivo.extensao (ex.: py, js) => colocar no working tree
 
-3) git commit -m "feature : tipo do commit; funcionalidade do primeiro" => diz o que foi feito
+3) git commit -m "feature : tipo do commit; funcionalidade do primeiro" => diz o que foi feito, o controle de versionamentos (versões do código)
 
 4) git push origin xxx => especifica a branch remota/da nuvem
 
@@ -14,3 +14,10 @@ Parar subir do local p/a nuvem (cópia):
 - dev: desenvolvimento (sempre a primeira que pode ser atualizada)
 - homolog: homologação, qualidade
 - main: produção
+
+Para reverter o código, voltar na versão anterior: 
+
+
+hospedagem: hospedar um código local para poder ser acessado por qualquer pessoa no browser 
+
+CRUD:
