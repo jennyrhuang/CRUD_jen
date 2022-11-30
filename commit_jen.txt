@@ -1,0 +1,6 @@
+Primeiro commit da jen
+
+git status: verificar o arquivo modificado/editado
+git add: 
+- git add . => adicionar todos os arquivos
+- git add nome_arquivo.extensao (ex.: py, js) => 
