@@ -1,6 +1,16 @@
 Primeiro commit da jen
 
-git status: verificar o arquivo modificado/editado
-git add: 
+Parar subir do local p/a nuvem (cópia): 
+1) git status: verificar o arquivo modificado/editado
+2) git add: 
 - git add . => adicionar todos os arquivos
-- git add nome_arquivo.extensao (ex.: py, js) => 
+- git add nome_arquivo.extensao (ex.: py, js) => colocar no working tree
+
+3) git commit -m "feature : tipo do commit; funcionalidade do primeiro" => diz o que foi feito
+
+4) git push origin xxx => especifica a branch remota/da nuvem
+
+(branch: cria-se uma para cada funcionalidade; "main": branch de produção, a mais importante)
+- dev: desenvolvimento (sempre a primeira que pode ser atualizada)
+- homolog: homologação, qualidade
+- main: produção
